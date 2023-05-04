@@ -4,7 +4,7 @@
   "description": "Arduino Library for Dallas Temperature ICs (DS18B20, DS18S20, DS1822, DS1820, MAX31850)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+    "url": "https://github.com/gsoros/Arduino-Temperature-Control-Library.git"
   },
   "authors": [
     {
@@ -26,9 +26,7 @@
       "email": "rob.tillaart@gmail.com"
     }
   ],
-  "dependencies": {
-    "gsoros/OneWire": "^2.3.5"
-  },
+  "dependencies": {},
   "version": "3.11.0",
   "frameworks": "arduino",
   "platforms": "*"
